@@ -1,0 +1,15 @@
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.exe
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.deps.json
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.runtimeconfig.json
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.runtimeconfig.dev.json
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.dll
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\vaccine.pdb
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.csprojAssemblyReference.cache
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.AssemblyInfoInputs.cache
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.AssemblyInfo.cs
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.csproj.CoreCompileInputs.cache
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.dll
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.pdb
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.genruntimeconfig.cache
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhisheikh.parihar.BEPL\source\repos\vaccine\obj\Debug\netcoreapp3.1\vaccine.csproj.CopyComplete
